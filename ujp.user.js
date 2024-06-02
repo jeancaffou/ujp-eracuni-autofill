@@ -66,7 +66,7 @@
             var priceInput = document.querySelector('#Postavka_' + index + '__Cena');
             var taxSelect = document.querySelector('#Postavka_' + index + '__DavekId');
             var taxCodeSelect = document.querySelector('#Postavka_' + index + '__DavekKoda');
-          	var popustInput = document.querySelector('#Postavka_' + index + '__Popust');
+            var popustInput = document.querySelector('#Postavka_' + index + '__Popust');
 
             // Split the task details
             var taskParts = task.split('\t');
