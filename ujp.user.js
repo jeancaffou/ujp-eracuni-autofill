@@ -76,7 +76,7 @@
             // Fill the input fields with task details
             articleInput.value = taskName;
             quantityInput.value = hoursSpent;
-          	popustInput.value = '0'
+            popustInput.value = '0'
             unitMeasureSelect.value = '21';
             priceInput.value = PRICE;
             taxSelect.value = '5';
